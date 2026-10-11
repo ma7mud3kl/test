@@ -1,2 +1,3 @@
 first one in file1
 second line in file.txt
+second line in file.txt dublicated
