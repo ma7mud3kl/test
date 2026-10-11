@@ -1,0 +1,2 @@
+first one in file1
+second line in file.txt
